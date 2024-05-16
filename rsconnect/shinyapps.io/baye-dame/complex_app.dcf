@@ -1,0 +1,10 @@
+name: complex_app
+title:
+username: baye-dame
+account: baye-dame
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12015340
+bundleId: 8623566
+url: https://baye-dame.shinyapps.io/complex_app/
+version: 1
